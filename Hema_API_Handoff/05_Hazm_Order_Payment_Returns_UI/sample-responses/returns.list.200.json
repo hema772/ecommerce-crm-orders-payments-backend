@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "message": "Returns retrieved successfully",
+  "data": [
+    {
+      "_id": "6734c3d4e5f6a7b8c9020101",
+      "returnNumber": "RET-20261113-X1Y2Z3",
+      "orderNumber": "ORD-20261113-A1B2C3",
+      "customerId": "cust_101",
+      "refundAmount": 79900,
+      "status": "REQUESTED",
+      "reasonCategory": "SIZE_FIT_ISSUE",
+      "createdAt": "2026-11-13T12:15:00.000Z"
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 10,
+    "totalRecords": 14,
+    "totalPages": 2,
+    "hasNext": true,
+    "hasPrev": false
+  }
+}

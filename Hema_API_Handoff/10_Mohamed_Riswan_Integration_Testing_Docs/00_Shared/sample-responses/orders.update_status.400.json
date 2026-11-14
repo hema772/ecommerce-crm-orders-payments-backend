@@ -1,0 +1,4 @@
+{
+  "success": false,
+  "message": "Invalid order status transition from 'PLACED' to 'DELIVERED'. Allowed transitions from 'PLACED': [CONFIRMED, CANCELLED]"
+}

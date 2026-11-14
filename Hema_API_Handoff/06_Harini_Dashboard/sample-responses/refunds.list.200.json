@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "message": "Refunds retrieved successfully",
+  "data": [
+    {
+      "_id": "6734d4e5f6a7b8c903010101",
+      "refundNumber": "REF-20261113-R1F2N3",
+      "orderNumber": "ORD-20261113-A1B2C3",
+      "customerId": "cust_101",
+      "amountPaise": 79900,
+      "currency": "INR",
+      "status": "PROCESSED",
+      "razorpayRefundId": "rfnd_Q1w2e3r4t5y6u7",
+      "createdAt": "2026-11-13T12:30:00.000Z"
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 10,
+    "totalRecords": 8,
+    "totalPages": 1,
+    "hasNext": false,
+    "hasPrev": false
+  }
+}

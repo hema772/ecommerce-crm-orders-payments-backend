@@ -1,0 +1,4 @@
+{
+  "success": false,
+  "message": "Payment verification failed: Invalid HMAC-SHA256 signature mismatch"
+}

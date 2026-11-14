@@ -1,0 +1,4 @@
+{
+  "success": false,
+  "message": "Order cannot be cancelled once it reaches 'SHIPPED'. Cancellation is only allowed before SHIPPED."
+}

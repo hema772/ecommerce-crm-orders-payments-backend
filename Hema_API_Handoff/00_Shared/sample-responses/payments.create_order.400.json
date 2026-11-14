@@ -1,0 +1,4 @@
+{
+  "success": false,
+  "message": "Order 'ORD-20261113-A1B2C3' is already PAID. Duplicate payment forbidden."
+}

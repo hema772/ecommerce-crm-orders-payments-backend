@@ -1,0 +1,13 @@
+{
+  "success": false,
+  "message": "Insufficient inventory to fulfill order: SKU-OUT-OF-STOCK (requested 1, in stock 0)",
+  "errors": [
+    {
+      "sku": "SKU-OUT-OF-STOCK",
+      "name": "Limited Edition Collectible Pin",
+      "requested": 1,
+      "availableStock": 0,
+      "isAvailable": false
+    }
+  ]
+}

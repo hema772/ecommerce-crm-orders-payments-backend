@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "message": "Offline payment recorded successfully",
+  "data": {
+    "_id": "6734b2c3d4e5f6a7b8c90102",
+    "orderId": "6734a1b2c3d4e5f6a7b8c901",
+    "orderNumber": "ORD-20261113-A1B2C3",
+    "amount": 188564,
+    "currency": "INR",
+    "method": "COD",
+    "status": "PAID",
+    "transactionId": "OFFLINE-1731499200000-AB12",
+    "collectedBy": "courier_agent_bluedart",
+    "note": "Cash collected at delivery"
+  }
+}

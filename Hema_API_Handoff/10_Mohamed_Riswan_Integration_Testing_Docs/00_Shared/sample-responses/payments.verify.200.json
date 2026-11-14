@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "message": "Payment signature verified successfully",
+  "data": {
+    "paymentId": "6734b2c3d4e5f6a7b8c90101",
+    "orderId": "6734a1b2c3d4e5f6a7b8c901",
+    "orderNumber": "ORD-20261113-A1B2C3",
+    "razorpayPaymentId": "pay_Q1w2e3r4t5y6u7",
+    "amountPaise": 188564,
+    "status": "PAID",
+    "orderStatus": "CONFIRMED",
+    "verifiedAt": "2026-11-13T12:02:00.000Z"
+  }
+}

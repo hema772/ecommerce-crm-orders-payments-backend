@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "message": "Reconciliation job completed",
+  "data": {
+    "scanned": 15,
+    "markedFailed": 3,
+    "markedPaid": 0,
+    "unresolved": 12,
+    "reconciledAt": "2026-11-13T12:00:00.000Z"
+  }
+}

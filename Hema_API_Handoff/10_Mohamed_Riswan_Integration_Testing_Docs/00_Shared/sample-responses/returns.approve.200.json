@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "message": "Return request approved",
+  "data": {
+    "returnId": "6734c3d4e5f6a7b8c9020101",
+    "returnNumber": "RET-20261113-X1Y2Z3",
+    "status": "APPROVED",
+    "approvedBy": "usr_support_01",
+    "approvalNote": "Evidence inspected and approved for pickup",
+    "updatedAt": "2026-11-13T12:20:00.000Z"
+  }
+}

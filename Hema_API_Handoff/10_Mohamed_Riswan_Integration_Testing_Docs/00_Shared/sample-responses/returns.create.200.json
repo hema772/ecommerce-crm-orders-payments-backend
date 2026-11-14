@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Return request submitted successfully",
+  "data": {
+    "_id": "6734c3d4e5f6a7b8c9020101",
+    "returnNumber": "RET-20261113-X1Y2Z3",
+    "orderId": "6734a1b2c3d4e5f6a7b8c901",
+    "orderNumber": "ORD-20261113-A1B2C3",
+    "customerId": "cust_101",
+    "items": [
+      {
+        "orderItemId": "6734a1b2c3d4e5f6a7b8c902",
+        "sku": "SKU-TSHIRT-BLK-M",
+        "name": "Classic Cotton T-Shirt (Black, M)",
+        "qty": 1,
+        "unitPrice": 79900,
+        "subtotal": 79900,
+        "reason": "SIZE_TOO_LARGE",
+        "condition": "UNOPENED"
+      }
+    ],
+    "reasonCategory": "SIZE_FIT_ISSUE",
+    "reasonDetails": "Customer tried on once, size is loose. Original packaging intact.",
+    "evidenceUrls": [
+      "https://res.cloudinary.com/crm-demo/image/upload/v1/evidence/item_tag.jpg"
+    ],
+    "refundAmount": 79900,
+    "status": "REQUESTED",
+    "createdAt": "2026-11-13T12:15:00.000Z"
+  }
+}

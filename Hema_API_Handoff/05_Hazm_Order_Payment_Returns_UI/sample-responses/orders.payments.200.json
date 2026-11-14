@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "message": "Payment history for order retrieved successfully",
+  "data": [
+    {
+      "_id": "6734b2c3d4e5f6a7b8c90101",
+      "transactionId": "pay_rzp_demo_001",
+      "razorpayOrderId": "order_rzp_demo_001",
+      "amountPaise": 188564,
+      "amountFormatted": "₹1,885.64",
+      "currency": "INR",
+      "method": "RAZORPAY",
+      "status": "PAID",
+      "createdAt": "2026-11-10T09:31:00.000Z"
+    }
+  ]
+}

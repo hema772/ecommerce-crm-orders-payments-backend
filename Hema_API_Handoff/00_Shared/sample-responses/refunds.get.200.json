@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "message": "Refund details retrieved successfully",
+  "data": {
+    "_id": "6734d4e5f6a7b8c903010101",
+    "refundNumber": "REF-20261113-R1F2N3",
+    "orderId": "6734a1b2c3d4e5f6a7b8c901",
+    "orderNumber": "ORD-20261113-A1B2C3",
+    "paymentId": "6734b2c3d4e5f6a7b8c90101",
+    "returnId": "6734c3d4e5f6a7b8c9020101",
+    "customerId": "cust_101",
+    "amount": 79900,
+    "currency": "INR",
+    "reason": "SIZE_TOO_LARGE",
+    "status": "PROCESSED",
+    "type": "RETURN",
+    "speed": "normal",
+    "razorpayPaymentId": "pay_Q1w2e3r4t5y6u7",
+    "razorpayRefundId": "rfnd_Q1w2e3r4t5y6u7",
+    "processedAt": "2026-11-13T12:32:00.000Z",
+    "createdAt": "2026-11-13T12:30:00.000Z",
+    "updatedAt": "2026-11-13T12:32:00.000Z"
+  }
+}

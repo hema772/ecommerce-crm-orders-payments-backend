@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "message": "Refund processed successfully via payment gateway",
+  "data": {
+    "refundId": "6734d4e5f6a7b8c903010101",
+    "refundNumber": "REF-20261113-R1F2N3",
+    "orderNumber": "ORD-20261113-A1B2C3",
+    "amountPaise": 79900,
+    "amountFormatted": "₹799.00",
+    "status": "PROCESSED",
+    "razorpayRefundId": "rfnd_Q1w2e3r4t5y6u7",
+    "orderPaymentStatus": "PARTIALLY_REFUNDED",
+    "processedAt": "2026-11-13T12:32:00.000Z"
+  }
+}

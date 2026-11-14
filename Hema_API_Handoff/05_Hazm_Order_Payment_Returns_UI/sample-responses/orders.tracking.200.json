@@ -1,0 +1,55 @@
+{
+  "success": true,
+  "message": "Tracking milestones retrieved successfully",
+  "data": {
+    "orderNumber": "ORD-20261113-A1B2C3",
+    "currentStatus": "DELIVERED",
+    "courier": "Bluedart Express",
+    "trackingNumber": "BD-789012345",
+    "trackingUrl": "https://bluedart.example.com/track/BD-789012345",
+    "milestones": [
+      {
+        "status": "PLACED",
+        "label": "Order Placed",
+        "timestamp": "2026-11-10T09:30:00.000Z",
+        "completed": true
+      },
+      {
+        "status": "CONFIRMED",
+        "label": "Payment Confirmed",
+        "timestamp": "2026-11-10T09:31:00.000Z",
+        "completed": true
+      },
+      {
+        "status": "PROCESSING",
+        "label": "Processing Order",
+        "timestamp": "2026-11-10T10:00:00.000Z",
+        "completed": true
+      },
+      {
+        "status": "PACKED",
+        "label": "Ready to Ship",
+        "timestamp": "2026-11-10T14:00:00.000Z",
+        "completed": true
+      },
+      {
+        "status": "SHIPPED",
+        "label": "Shipped",
+        "timestamp": "2026-11-11T08:00:00.000Z",
+        "completed": true
+      },
+      {
+        "status": "OUT_FOR_DELIVERY",
+        "label": "Out for Delivery",
+        "timestamp": "2026-11-12T06:00:00.000Z",
+        "completed": true
+      },
+      {
+        "status": "DELIVERED",
+        "label": "Delivered",
+        "timestamp": "2026-11-12T11:45:00.000Z",
+        "completed": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "message": "Return request rejected",
+  "data": {
+    "returnId": "6734c3d4e5f6a7b8c9020101",
+    "returnNumber": "RET-20261113-X1Y2Z3",
+    "status": "REJECTED",
+    "rejectedBy": "usr_support_01",
+    "rejectionReason": "Item reported as used with visible wear; violates return policy",
+    "updatedAt": "2026-11-13T12:20:00.000Z"
+  }
+}

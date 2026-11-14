@@ -1,0 +1,43 @@
+{
+  "success": true,
+  "message": "Invoice retrieved successfully",
+  "data": {
+    "invoiceNumber": "INV-20261113-A1B2C3",
+    "orderNumber": "ORD-20261113-A1B2C3",
+    "invoiceDate": "2026-11-10T09:31:00.000Z",
+    "customer": {
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@example.com",
+      "phone": "+919876543210"
+    },
+    "billingAddress": {
+      "street": "100 100 Feet Road, Indiranagar",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560038",
+      "country": "India"
+    },
+    "items": [
+      {
+        "sku": "SKU-TSHIRT-BLK-M",
+        "name": "Classic Cotton T-Shirt (Black, M)",
+        "qty": 2,
+        "unitPricePaise": 79900,
+        "unitPriceFormatted": "₹799.00",
+        "taxPaise": 28764,
+        "totalPaise": 188564,
+        "totalFormatted": "₹1,885.64"
+      }
+    ],
+    "summary": {
+      "subtotalPaise": 159800,
+      "subtotalFormatted": "₹1,598.00",
+      "taxTotalPaise": 28764,
+      "taxTotalFormatted": "₹287.64",
+      "shippingFeePaise": 0,
+      "shippingFeeFormatted": "₹0.00",
+      "grandTotalPaise": 188564,
+      "grandTotalFormatted": "₹1,885.64"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "message": "Order status transitioned to PROCESSING",
+  "data": {
+    "_id": "6734a1b2c3d4e5f6a7b8c901",
+    "orderNumber": "ORD-20261113-A1B2C3",
+    "previousStatus": "CONFIRMED",
+    "currentStatus": "PROCESSING",
+    "updatedAt": "2026-11-13T12:05:00.000Z"
+  }
+}

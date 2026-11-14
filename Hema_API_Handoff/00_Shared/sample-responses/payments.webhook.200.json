@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "message": "Webhook processed successfully",
+  "data": {
+    "event": "payment.captured",
+    "processed": true,
+    "idempotentSkipped": false
+  }
+}

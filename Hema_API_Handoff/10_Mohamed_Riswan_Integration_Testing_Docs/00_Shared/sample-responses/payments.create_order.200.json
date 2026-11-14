@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "message": "Razorpay order created successfully",
+  "data": {
+    "orderId": "6734a1b2c3d4e5f6a7b8c901",
+    "orderNumber": "ORD-20261113-A1B2C3",
+    "amount": 188564,
+    "currency": "INR",
+    "razorpayOrderId": "order_Q1w2e3r4t5y6u7",
+    "keyId": "rzp_test_51Ng8BqWXYZ123",
+    "customer": {
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@example.com",
+      "phone": "+919876543210"
+    }
+  }
+}

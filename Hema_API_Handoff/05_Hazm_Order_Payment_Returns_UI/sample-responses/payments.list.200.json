@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "message": "Payments retrieved successfully",
+  "data": [
+    {
+      "_id": "6734b2c3d4e5f6a7b8c90101",
+      "orderNumber": "ORD-20261113-A1B2C3",
+      "customerId": "cust_101",
+      "amount": 188564,
+      "currency": "INR",
+      "method": "RAZORPAY",
+      "status": "PAID",
+      "transactionId": "pay_Q1w2e3r4t5y6u7",
+      "createdAt": "2026-11-10T09:31:00.000Z"
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 10,
+    "totalRecords": 120,
+    "totalPages": 12,
+    "hasNext": true,
+    "hasPrev": false
+  }
+}
